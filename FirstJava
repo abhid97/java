@@ -1,0 +1,9 @@
+import java.util.*;
+public class java
+{
+
+public staic void main(String args[])
+{
+System.out.println("main");
+}
+}
